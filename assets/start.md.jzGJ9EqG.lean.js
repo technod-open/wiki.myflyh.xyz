@@ -1,0 +1,1 @@
+import{_ as l,o as e,c as i,ae as t}from"./chunks/framework.A5CuatG_.js";const p=JSON.parse('{"title":"开始","description":"","frontmatter":{},"headers":[],"relativePath":"start.md","filePath":"start.md"}'),r={name:"start.md"};function s(d,a,o,h,n,m){return e(),i("div",null,[...a[0]||(a[0]=[t("",10)])])}const f=l(r,[["render",s]]);export{p as __pageData,f as default};
